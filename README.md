@@ -21,6 +21,8 @@ Image search app allows the user to search for images from the Unsplash API. The
 ## Technologies
 
 - Unsplash Developer API
+- HTML
+- CSS
 - JavaScript
 - React.js
 - Node.js
