@@ -4,6 +4,8 @@
 
 Image search app allows the user to search for images from the Unsplash API. The search bar at the top will send an API request via Axios to return the search results from the Unsplash image library. Images are displayed in a grid.
 
+[Launch 🚀](https://leon-luna-ray.github.io/image-search/)
+
 ## Table of Contents
 
 - [Image](#image)
@@ -56,6 +58,6 @@ If you have any questions about the repo, open an issue or contact me directly a
 
 ## Links
 
-- [Deployed Project](n/a)
+- [Deployed Project](https://leon-luna-ray.github.io/image-search/)
 
 - [Project Repository](https://github.com/leon-luna-ray/image-search)
