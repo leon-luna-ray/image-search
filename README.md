@@ -33,8 +33,8 @@ Search term does not yet clear on submit.
 
 ## Next-Steps
 
-- Branding with Nav
-- Search, clear button
+- Nav with branding
+- Search, clear buttons
 - Enlarge image on click
 - Download image
 
