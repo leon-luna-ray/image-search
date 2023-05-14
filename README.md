@@ -16,20 +16,18 @@ Image search app allows the user to search for images from the Unsplash API. The
 - [Contact](#contact)
 - [Links](#links)
 
+## Technologies
+
+- React.js
+- Vite.js
+- JavaScript
+- HTML
+- CSS
+- Semantic UI
+
 ## Image
 
 ![Image search screen with plants](./public/assets/img/image-search.png)
-
-## Technologies
-
-- Unsplash Developer API
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Node.js
-- Axios
-- Semantic UI
 
 ## Known-Bugs
 
